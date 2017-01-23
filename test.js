@@ -15,7 +15,7 @@
             (
                 "deviceready",
                 /* Cordova has been initialized and is ready to roll */
-                function()
+                function onLoad()
                 {
                     /* Initialize canvas and animation */
                     var canvas = document.getElementById("canvas");
