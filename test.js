@@ -126,3 +126,10 @@
                 canvas_ctx.fillStyle = "#FF0000";
                 circle( x, y, RADIUS );
             }
+		function up(){
+			var RADIUS = +1;
+		}
+		
+		function down(){
+			var RADIUS = -1;
+		}
