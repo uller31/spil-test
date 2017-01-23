@@ -1,0 +1,3 @@
+[0123/134516:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Nolarry\Reports\Dump: Den angivne sti blev ikke fundet. (0x3)
+[0123/134516:ERROR:registration_protocol_win.cc(82)] TransactNamedPipe: Pipen er blevet afsluttet. (0x6D)
+[0123/134516:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Nolarry\Reports\Dump: Den angivne sti blev ikke fundet. (0x3)
