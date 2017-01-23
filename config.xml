@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 
 
-<widget id="com.spil" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.spil-test" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
    
 
    
-	<name>Spil-app</name>
+	<name>Spil-app-test</name>
     <description>
-       Spil-app 
+       Spil-app-test 
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team , anvendt af Ulrik Esbjørn
     </author>
 	
-	<content src="spil.html" />
+	<content src="test.html" />
     <content src="index.html" />
 
     
