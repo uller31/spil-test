@@ -34,7 +34,7 @@
 
                     // Draw time interval.
                     setInterval(draw, 30);
-                },
+                }
                 false
             );
 
